@@ -1,0 +1,30 @@
+*{
+    background-color: #85C1E9;
+}
+.login {
+    padding: 10px;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    font-family: Verdana;
+    font-size: 25px;
+    border: darkblue;
+}
+.usuario {
+    margin: 30px;
+}
+.contraseña {
+    margin: 30px;
+}
+.submit {
+    padding: 10px;
+    padding-left: 100px;
+    margin: 8px;
+    border: darkblue;
+}
+.btnsubmit {
+    padding: 5px;
+    font-family: Verdana;
+    background-color: darkred;
+}
